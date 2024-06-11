@@ -68,7 +68,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       color: Color(0xff268759),
                       borderRadius: BorderRadius.circular(100)
                   ),
-                  child: Center(child: Text('cm',
+                  child: Center(child: Text('feets',
                     style: TextStyle(color: Colors.white),)),)
               ],),//textField
             SizedBox(height: 15,),
